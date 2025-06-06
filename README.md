@@ -17,7 +17,7 @@ The Muracwann License allows users to:
 
 If you use this modpack commercially or enjoy it, please consider supporting the author via Saweria:
 
-👉 [[https://saweria.co/dandels](https://saweria.co/muracwaan](https://saweria.co/dandels))
+👉 [https://saweria.co/dandels]
 
 Your support helps keep the project alive and maintained.
 
