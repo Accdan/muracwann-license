@@ -17,7 +17,7 @@ The Muracwann License allows users to:
 
 If you use this modpack commercially or enjoy it, please consider supporting the author via Saweria:
 
-👉 [https://saweria.co/muracwaan](https://saweria.co/muracwaan)
+👉 [[https://saweria.co/dandels](https://saweria.co/muracwaan](https://saweria.co/dandels))
 
 Your support helps keep the project alive and maintained.
 
@@ -26,6 +26,3 @@ Your support helps keep the project alive and maintained.
 The Muracwann License **only covers the modpack structure** (mod list, settings, configs, etc).  
 Each individual mod included in the pack retains its original license, as defined by its respective mod author(s).  
 Please consult each mod’s license separately if redistributing them individually.
-
-## 📂 Repository Structure
-
